@@ -18,9 +18,9 @@ Jump down to **Getting Ready** and follow the rest of the instructions there!
 
 You can also [download Git from the official web site](https://git-scm.com/downloads). During installation, you'll be asked how to adjust your PATH. If you choose "Use Git from Git Bash only," you'll need to use the Git Bash program that ships with Git to interact with Git.
 
-![PATH Modification Dialog](images/install-git-official-windows.png)
-
 If you choose "Use Git from the Windows Command Prompt," then you can also use Git from the command prompt and from PowerShell. In this case, the choice of whether to use Git Bash or a built-in Windows shell is up to you.
+
+![PATH Modification Dialog](images/install-git-official-windows.png)
 
 Once it's finished installing, jump down to **Getting Ready** and follow the rest of the instructions there!
 
