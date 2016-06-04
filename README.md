@@ -8,7 +8,7 @@ Once you've got it installed, follow the instructions in **Getting Ready** at th
 
 ### GitHub Desktop
 
-The easiest way to install Git on Windows is to install the latest version of [GitHub desktop](https://desktop.github.com/). GitHub Desktop is a graphical Git client, but it also installs the underlying Git binary (and keeps it up to date).
+The easiest way to install Git on Windows is to install the latest version of [GitHub Desktop](https://desktop.github.com/). GitHub Desktop is a graphical Git client, but it also installs the underlying Git binary (and keeps it up to date).
 
 Once you've installed GitHub Desktop, run the "Git Shell" program that comes with it. This is how you'll interact with Git via a command-line interface.
 
